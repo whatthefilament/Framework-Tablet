@@ -23,6 +23,16 @@ For assembly you will need the following:
 - 6 M3 x 16mm screws
 - 7 M3 x 8mm screws
 
+Print Settings: 
+
+I recommened printing all case parts of either ASA or ABS as this provides the best heat resistance. 
+
+This case is designed to be printed at 0.2mm layer height wtih a 0.4mm nozzle. 
+
+No supports are needed in printing. All holes have built in supports. 
+
+The case is 317.2mm x 224mm x  24.6mm so you will need a printer that can accomodate that size. I printed mine on a Voron 2.4 350mm
+
 I've uploaded the step files for the model as well so you can modify the frame to accept any screen you'd like. 
 
 I look forward to everyone's feedback. 
