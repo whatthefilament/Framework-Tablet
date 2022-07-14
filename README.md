@@ -29,7 +29,7 @@ I recommened printing all case parts of either ASA or ABS as this provides the b
 
 This case is designed to be printed at 0.2mm layer height wtih a 0.4mm nozzle. 
 
-No supports are needed in printing. All holes have built in supports. STl's are properly oriented for correct printing 
+No supports are needed in printing. All holes have built in supports. STLs are properly oriented for correct printing 
 
 The case is 317.2mm x 224mm x  24.6mm so you will need a printer that can accomodate that size. I printed mine on a Voron 2.4 350mm
 
