@@ -22,7 +22,7 @@ This tablet case is based on a 12.3-inch display [external display](https://www.
 To connect the display to the Motherboard, you will need a USB C 3.1. The cable must be able to provide power, data, and input. I used the following: [USB C Cable](https://www.amazon.com/dp/B09PTYKV6N?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 
 
-Print Settings:
+# Print Settings:
 
 I recommend printing all case parts of either ASA or ABS as this provides the best heat resistance.
 
