@@ -40,6 +40,9 @@ I've uploaded the step files for the model as well, so you can modify the frame 
 
 I look forward to everyone's feedback. 
 
-![Tablet](https://github.com/whatthefilament/Framework-Tablet/blob/main/Pictures/Tablet.png)
-![Tablet-Expanded](https://github.com/whatthefilament/Framework-Tablet/blob/main/Pictures/Tablet%203.png)
-![Tablet-Back](https://github.com/whatthefilament/Framework-Tablet/blob/main/Pictures/Tablet%202.png)
+![Tablet](https://github.com/whatthefilament/Framework-Tablet/blob/main/Images/Framework%20Tablet%20V1.3%20Chargy%20Speaker%20Boi.png)
+![Tablet2](https://github.com/whatthefilament/Framework-Tablet/blob/main/Images/Framework%20Tablet%20V1.3%20Chargy%20Speaker%20Boi2.png)
+![Tablet3](https://github.com/whatthefilament/Framework-Tablet/blob/main/Images/Framework%20Tablet%20V1.3%20Chargy%20Speaker%20Boi3.png)
+![Tablet4](https://github.com/whatthefilament/Framework-Tablet/blob/main/Images/Framework%20Tablet%20V1.3%20Chargy%20Speaker%20Boi4.png)
+![Tablet5](https://github.com/whatthefilament/Framework-Tablet/blob/main/Images/Framework%20Tablet%20V1.3%20Chargy%20Speaker%20Boi5.png)
+
