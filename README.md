@@ -5,6 +5,8 @@ The ethos for this project being is to make as few changes as possible to conver
 
 The whole thing is held together with M3 fasteners and heat set inserts.
 
+## Assembly
+
 Build Instructions: Coming Soon! 
 
 To help organize parts for this project, you can also print my free [Framework parts tray](https://www.printables.com/model/253099-framework-parts-tray)
