@@ -5,18 +5,25 @@ The ethos for this project being is to make as few changes as possible to conver
 
 The whole thing is held together with M3 fasteners and heat set inserts.
 
-This tablet case is based on a 12.3-inch display (https://www.amazon.com/gp/product/B08P1M54G6/ref=ox_sc_saved_title_4?smid=AA3SELAX5GFYF&psc=1)
+Build Instructions: Coming Soon! 
 
-To connect the display to the Motherboard, you will need a USB C 3.1 or faster cable. The cable must be able to provide power, data, and input. I used the following: 
-
-USB C Cable - https://www.amazon.com/dp/B09PTYKV6N?psc=1&ref=ppx_yo2ov_dt_b_product_details
+To help organize parts for this project, you can also print my free Framework parts tray: https://www.printables.com/model/253099-framework-parts-tray
 
 For assembly, you will need the following:
 
-21 M3 heat inserts
+25 M3 heat inserts (short)
 8 M3 x 4mm screws
-6 M3 x 16mm screws
 7 M3 x 8mm screws
+6 M3 x 16mm screws
+4 M3 x 5mm screws
+
+This tablet case is based on a 12.3-inch display (https://www.amazon.com/gp/product/B08P1M54G6/ref=ox_sc_saved_title_4?smid=AA3SELAX5GFYF&psc=1)
+
+To connect the display to the Motherboard, you will need a USB C 3.1. The cable must be able to provide power, data, and input. I used the following:
+
+USB C Cable - https://www.amazon.com/dp/B09PTYKV6N?psc=1&ref=ppx_yo2ov_dt_b_product_details
+
+
 Print Settings:
 
 I recommend printing all case parts of either ASA or ABS as this provides the best heat resistance.
