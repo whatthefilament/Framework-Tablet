@@ -11,11 +11,11 @@ To help organize parts for this project, you can also print my free [Framework p
 
 For assembly, you will need the following:
 
-25 M3 heat inserts (short)
-8 M3 x 4mm screws
-7 M3 x 8mm screws
-6 M3 x 16mm screws
-4 M3 x 5mm screws
+- 25 M3 heat inserts (short)
+- 8 M3 x 4mm screws
+- 7 M3 x 8mm screws
+- 6 M3 x 16mm screws
+- 4 M3 x 5mm screws
 
 This tablet case is based on a 12.3-inch display [external display](https://www.amazon.com/gp/product/B08P1M54G6/ref=ox_sc_saved_title_4?smid=AA3SELAX5GFYF&psc=1)
 
