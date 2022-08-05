@@ -7,7 +7,7 @@ The whole thing is held together with M3 fasteners and heat set inserts.
 
 ## Assembly
 
-Build Instructions: Coming Soon! 
+[Build Instructions](https://www.instructables.com/Framework-Tablet-Assembly-Manual/)
 
 To help organize parts for this project, you can also print my free [Framework parts tray](https://www.printables.com/model/253099-framework-parts-tray)
 
