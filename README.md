@@ -19,9 +19,9 @@ For assembly, you will need the following:
 - 6 - M3 x 16mm screws
 - 4 - M3 x 5mm screws
 
-This tablet case is based on a 12.3-inch display [external display](https://www.amazon.com/gp/product/B08P1M54G6/ref=ox_sc_saved_title_4?smid=AA3SELAX5GFYF&psc=1)
+This tablet case is based on a 12.3-inch display [external display](https://www.amazon.com/gp/product/B08P1M54G6/?tag=whatthefilame-20)
 
-To connect the display to the Motherboard, you will need a USB C 3.1. The cable must be able to provide power, data, and input. I used the following: [USB C Cable](https://www.amazon.com/dp/B09PTYKV6N?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+To connect the display to the Motherboard, you will need a USB C 3.1. The cable must be able to provide power, data, and input. I used the following: [USB C Cable](https://www.amazon.com/dp/B09PTYKV6N?tag=whatthefilame-20&th=1)
 
 
 ## Print Settings:
